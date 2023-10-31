@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\switchcasedayofweek\bin\Debug\net6.0\switchcasedayofweek.exe
+C:\Users\HP\source\repos\switchcasedayofweek\bin\Debug\net6.0\switchcasedayofweek.deps.json
+C:\Users\HP\source\repos\switchcasedayofweek\bin\Debug\net6.0\switchcasedayofweek.runtimeconfig.json
+C:\Users\HP\source\repos\switchcasedayofweek\bin\Debug\net6.0\switchcasedayofweek.dll
+C:\Users\HP\source\repos\switchcasedayofweek\bin\Debug\net6.0\switchcasedayofweek.pdb
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\switchcasedayofweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\switchcasedayofweek.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\switchcasedayofweek.AssemblyInfo.cs
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\switchcasedayofweek.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\switchcasedayofweek.dll
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\refint\switchcasedayofweek.dll
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\switchcasedayofweek.pdb
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\switchcasedayofweek.genruntimeconfig.cache
+C:\Users\HP\source\repos\switchcasedayofweek\obj\Debug\net6.0\ref\switchcasedayofweek.dll
